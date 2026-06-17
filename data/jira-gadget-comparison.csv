@@ -1,0 +1,5 @@
+Tool_Name,Best_For,Core_Strength,Historical_Sample_Limit,Flow_Metrics_Included,Epic_Level_Forecasting
+Actionable Agile (55Degrees),Enterprise PMOs & Flow Experts,Academically rigorous metrics and outlier filtering,Unlimited (Paid),Cycle Time Scatterplot; Aging WIP; CFD,Yes (Via JQL/Filters)
+Broken Build,Scrum Masters & Native Dashboards,Lightweight embeddability and user-friendly UX,Unlimited (Paid),Forecasts & Percentile lines,Yes (Via Epic Links)
+Free Marketplace Apps,Trialing the concept,Zero cost,Often capped (making math unreliable),Minimal to none,Varies
+Native Jira,Basic agile tracking,Out-of-the-box availability for burnups,N/A (Does not sample throughput),No,No
